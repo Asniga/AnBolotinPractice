@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnBolotinPrac.iml" filepath="$PROJECT_DIR$/.idea/modules/AnBolotinPrac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnBolotinPrac.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AnBolotinPrac.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnBolotinPrac.test.iml" filepath="$PROJECT_DIR$/.idea/modules/AnBolotinPrac.test.iml" />
+    </modules>
+  </component>
+</project>
