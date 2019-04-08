@@ -17,19 +17,21 @@ public class OpenChromeBrowser {
     public void trello() throws InterruptedException {
        wd.navigate().to("https://trello.com/");
        wd.findElement(By.xpath("//a[@class='btn btn-sm btn-link text-white']")).click();
-       wd.findElement(By.xpath("//input[@id='user']")).click();
-       wd.findElement(By.xpath("//input[@id='user']")).clear();
-       wd.findElement(By.xpath("//input[@id='user']")).sendKeys("Asniga");
-       wd.findElement(By.xpath("//input[@id='password']")).click();
-       wd.findElement(By.xpath("//input[@id='password']")).clear();
-       wd.findElement(By.xpath("//input[@id='password']")).sendKeys("12345678");
+       clickClearSend("//input[@id='user']", "Asniga");
+       clickClearSend("//input[@id='password']", "12345678");
        wd.findElement(By.xpath("//input[@id='login']")).click();
-        Thread.sleep(1000);
+       Thread.sleep(1000);
        wd.findElement(By.xpath("//span[contains(text(),'Создать команду')]")).click();
-        Thread.sleep(3000);
+       Thread.sleep(3000);
+       clickClearSend("//input[@id='org-display-name']", "MyTeam");
+       wd.findElement(By.xpath("//input[@value='Создать']")).click();
 
-        
+    }
 
+    public void clickClearSend(String element, String sendKeys) {
+        wd.findElement(By.xpath(element)).click();
+        wd.findElement(By.xpath(element)).clear();
+        wd.findElement(By.xpath(element)).sendKeys(sendKeys);
     }
 
     @AfterClass

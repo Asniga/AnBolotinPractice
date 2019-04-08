@@ -53,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/OpenChromeBrowser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+            <state relative-caret-position="172">
+              <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#331#332#0" expanded="true" />
@@ -133,6 +133,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
     <property name="jdk.selected.JAVA_MODULE" value="12" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../etarqa17_Class" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -205,24 +206,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OpenChromeBrowser - 2019.04.06 at 13h 31m 05s.xml">
-      <configuration name="OpenChromeBrowser" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="OpenChromeBrowser - 2019.04.06 at 13h 31m 35s.xml">
-      <configuration name="OpenChromeBrowser" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="OpenChromeBrowser - 2019.04.06 at 13h 32m 27s.xml">
-      <configuration name="OpenChromeBrowser" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="OpenChromeBrowser - 2019.04.06 at 13h 42m 37s.xml">
-      <configuration name="OpenChromeBrowser" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="OpenChromeBrowser - 2019.04.08 at 20h 13m 27s.xml">
-      <configuration name="OpenChromeBrowser" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="OpenChromeBrowser - 2019.04.08 at 20h 34m 22s.xml">
-      <configuration name="OpenChromeBrowser" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="OpenChromeBrowser - 2019.04.08 at 20h 35m 21s.xml">
       <configuration name="OpenChromeBrowser" configurationId="TestNG" />
     </history-entry>
@@ -233,6 +216,24 @@
       <configuration name="OpenChromeBrowser" configurationId="TestNG" />
     </history-entry>
     <history-entry file="OpenChromeBrowser - 2019.04.08 at 20h 44m 23s.xml">
+      <configuration name="OpenChromeBrowser" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenChromeBrowser - 2019.04.08 at 21h 12m 55s.xml">
+      <configuration name="OpenChromeBrowser" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenChromeBrowser - 2019.04.08 at 21h 15m 16s.xml">
+      <configuration name="OpenChromeBrowser" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenChromeBrowser - 2019.04.08 at 21h 23m 21s.xml">
+      <configuration name="OpenChromeBrowser" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenChromeBrowser - 2019.04.08 at 21h 24m 38s.xml">
+      <configuration name="OpenChromeBrowser" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenChromeBrowser - 2019.04.08 at 21h 26m 22s.xml">
+      <configuration name="OpenChromeBrowser" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenChromeBrowser - 2019.04.08 at 21h 28m 15s.xml">
       <configuration name="OpenChromeBrowser" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -280,8 +281,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/OpenChromeBrowser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        <state relative-caret-position="172">
+          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#331#332#0" expanded="true" />
