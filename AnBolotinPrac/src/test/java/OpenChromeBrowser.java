@@ -14,7 +14,7 @@ public class OpenChromeBrowser {
     }
 
     @Test
-    public void trello(){
+    public void trello() throws InterruptedException {
        wd.navigate().to("https://trello.com/");
        wd.findElement(By.xpath("//a[@class='btn btn-sm btn-link text-white']")).click();
        wd.findElement(By.xpath("//input[@id='user']")).click();
@@ -24,7 +24,11 @@ public class OpenChromeBrowser {
        wd.findElement(By.xpath("//input[@id='password']")).clear();
        wd.findElement(By.xpath("//input[@id='password']")).sendKeys("12345678");
        wd.findElement(By.xpath("//input[@id='login']")).click();
+        Thread.sleep(1000);
+       wd.findElement(By.xpath("//span[contains(text(),'Создать команду')]")).click();
+        Thread.sleep(3000);
 
+        
 
     }
 

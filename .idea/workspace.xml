@@ -53,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/OpenChromeBrowser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="342">
+              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#331#332#0" expanded="true" />
@@ -205,12 +205,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OpenChromeBrowser - 2019.04.06 at 13h 26m 22s.xml">
-      <configuration name="OpenChromeBrowser" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="OpenChromeBrowser - 2019.04.06 at 13h 27m 08s.xml">
-      <configuration name="OpenChromeBrowser" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="OpenChromeBrowser - 2019.04.06 at 13h 31m 05s.xml">
       <configuration name="OpenChromeBrowser" configurationId="TestNG" />
     </history-entry>
@@ -233,6 +227,12 @@
       <configuration name="OpenChromeBrowser" configurationId="TestNG" />
     </history-entry>
     <history-entry file="OpenChromeBrowser - 2019.04.08 at 20h 37m 17s.xml">
+      <configuration name="OpenChromeBrowser" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenChromeBrowser - 2019.04.08 at 20h 42m 34s.xml">
+      <configuration name="OpenChromeBrowser" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenChromeBrowser - 2019.04.08 at 20h 44m 23s.xml">
       <configuration name="OpenChromeBrowser" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -280,8 +280,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/OpenChromeBrowser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="342">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#331#332#0" expanded="true" />
