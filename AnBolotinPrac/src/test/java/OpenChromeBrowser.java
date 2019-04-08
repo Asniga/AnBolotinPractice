@@ -15,8 +15,16 @@ public class OpenChromeBrowser {
 
     @Test
     public void trello(){
-        wd.navigate().to("https://trello.com/");
+       wd.navigate().to("https://trello.com/");
        wd.findElement(By.xpath("//a[@class='btn btn-sm btn-link text-white']")).click();
+       wd.findElement(By.xpath("//input[@id='user']")).click();
+       wd.findElement(By.xpath("//input[@id='user']")).clear();
+       wd.findElement(By.xpath("//input[@id='user']")).sendKeys("Asniga");
+       wd.findElement(By.xpath("//input[@id='password']")).click();
+       wd.findElement(By.xpath("//input[@id='password']")).clear();
+       wd.findElement(By.xpath("//input[@id='password']")).sendKeys("12345678");
+       wd.findElement(By.xpath("//input[@id='login']")).click();
+
 
     }
 
