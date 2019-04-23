@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="682e4ed6-eccf-40ac-ba83-bf3f40c574f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules/AnBolotonPrac.AnBolotinPrac.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/AnBolotonPrac.AnBolotinPrac.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnBolotinPrac/src/test/resources/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/build/classes/java/test/com/myProject/app/ProjectsHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/AnBolotinPrac/build/classes/java/test/com/myProject/app/ProjectsHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/build/classes/java/test/com/myProject/app/AppManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/build/classes/java/test/com/myProject/app/HelperBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/build/classes/java/test/com/myProject/app/JobHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/build/classes/java/test/com/myProject/app/ProjectsHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/build/classes/java/test/com/myProject/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/build/classes/java/test/com/myProject/tests/FillFormMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/build/classes/java/test/com/myProject/tests/OpenJob.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/build/classes/java/test/com/myProject/tests/OpenProjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/build/classes/java/test/com/myProject/tests/TestBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/out/test/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AnBolotinPrac/out/test/resources/logback.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/OpenJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/OpenJob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/src/test/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AnBolotinPrac/src/test/resources/logback.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/AnBolotinPrac/.gradle/" />
@@ -49,18 +57,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/FillFormMessage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AnBolotinPrac/testFile-20190423T144047.log">
           <provider selected="true" editor-type-id="LogFileEditorProvider" />
         </entry>
@@ -77,23 +73,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/OpenJob.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="27" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="7" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="153">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AnBolotinPrac/build/reports/tests/test/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="-800">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/resources/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -132,7 +134,7 @@
         <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/resources/logback.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -164,7 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/Over143.java" />
         <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/BabyHelper.java" />
         <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/BabyOpen.java" />
         <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/WoomenOpen.java" />
@@ -214,6 +215,7 @@
         <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/model/User.java" />
         <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/app/ProjectsHelper.java" />
         <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/resources/testng.xml" />
         <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/OpenJob.java" />
       </list>
     </option>
@@ -240,32 +242,6 @@
             <path>
               <item name="AnBolotinPrac" type="b2602c69:ProjectViewProjectNode" />
               <item name="AnBolotinPrac" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="AnBolotinPrac" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AnBolotinPrac" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AnBolotinPrac" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AnBolotinPrac" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="reports" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AnBolotinPrac" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AnBolotinPrac" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="reports" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AnBolotinPrac" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AnBolotinPrac" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="reports" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AnBolotinPrac" type="b2602c69:ProjectViewProjectNode" />
@@ -368,7 +344,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.OpenProjects">
+  <component name="RunManager" selected="TestNG.OpenJob">
+    <configuration name="C:/Users/Anna/Documents/GitHub/AnBolotinPractice/AnBolotinPrac/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AnBolotinPrac" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/AnBolotinPrac/src/test/resources/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FillFormMessage" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AnBolotinPrac.test" />
       <extension name="coverage">
@@ -426,11 +419,13 @@
       <item itemvalue="TestNG.FillFormMessage" />
       <item itemvalue="TestNG.OpenProjects" />
       <item itemvalue="TestNG.OpenJob" />
+      <item itemvalue="TestNG.C:/Users/Anna/Documents/GitHub/AnBolotinPractice/AnBolotinPrac/src/test/resources/testng.xml" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.OpenProjects" />
         <item itemvalue="TestNG.OpenJob" />
+        <item itemvalue="TestNG.C:/Users/Anna/Documents/GitHub/AnBolotinPractice/AnBolotinPrac/src/test/resources/testng.xml" />
+        <item itemvalue="TestNG.OpenProjects" />
         <item itemvalue="TestNG.FillFormMessage" />
       </list>
     </recent_temporary>
@@ -449,21 +444,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FillFormMessage_(1) - 2019.04.23 at 15h 17m 42s.xml">
-      <configuration name="FillFormMessage (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="OpenProjects_(1) - 2019.04.23 at 15h 19m 03s.xml">
-      <configuration name="OpenProjects (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="OpenProjects - 2019.04.23 at 15h 23m 12s.xml">
-      <configuration name="OpenProjects" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="FillFormMessage_(1) - 2019.04.23 at 15h 23m 43s.xml">
-      <configuration name="FillFormMessage (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="FillFormMessage - 2019.04.23 at 15h 24m 48s.xml">
-      <configuration name="FillFormMessage" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="OpenJob - 2019.04.23 at 15h 26m 22s.xml">
       <configuration name="OpenJob" configurationId="TestNG" />
     </history-entry>
@@ -479,9 +459,25 @@
     <history-entry file="OpenProjects - 2019.04.23 at 15h 37m 41s.xml">
       <configuration name="OpenProjects" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__Users_Anna_Documents_GitHub_AnBolotinPractice_AnBolotinPrac_src_test_resources_testng_xml - 2019.04.23 at 16h 43m 53s.xml">
+      <configuration name="C:/Users/Anna/Documents/GitHub/AnBolotinPractice/AnBolotinPrac/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Anna_Documents_GitHub_AnBolotinPractice_AnBolotinPrac_src_test_resources_testng_xml_(1) - 2019.04.23 at 16h 45m 48s.xml">
+      <configuration name="C:/Users/Anna/Documents/GitHub/AnBolotinPractice/AnBolotinPrac/src/test/resources/testng.xml (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Anna_Documents_GitHub_AnBolotinPractice_AnBolotinPrac_src_test_resources_testng_xml - 2019.04.23 at 16h 48m 47s.xml">
+      <configuration name="C:/Users/Anna/Documents/GitHub/AnBolotinPractice/AnBolotinPrac/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Anna_Documents_GitHub_AnBolotinPractice_AnBolotinPrac_src_test_resources_testng_xml - 2019.04.23 at 16h 53m 45s.xml">
+      <configuration name="C:/Users/Anna/Documents/GitHub/AnBolotinPractice/AnBolotinPrac/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Anna_Documents_GitHub_AnBolotinPractice_AnBolotinPrac_src_test_resources_testng_xml_(1) - 2019.04.23 at 16h 54m 51s.xml">
+      <configuration name="C:/Users/Anna/Documents/GitHub/AnBolotinPractice/AnBolotinPrac/src/test/resources/testng.xml (1)" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21860817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -492,7 +488,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2831424" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2831424" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -501,7 +497,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Build" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.28477904" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.28477904" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -544,7 +540,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/BorderCreation.java" />
     <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/Logout.java" />
     <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/Woomen.java" />
     <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/BabyHelper.java" />
@@ -635,7 +630,7 @@
     <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/FillFormMessage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -645,7 +640,7 @@
     <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/resources/logback.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -701,20 +696,24 @@
       </provider>
       <provider selected="true" editor-type-id="LogFileEditorProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/OpenJob.java">
+    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/build/reports/tests/test/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="27" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="7" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-800">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/build/reports/tests/test/index.html">
+    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/OpenJob.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
     </entry>
