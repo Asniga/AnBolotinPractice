@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="AnBolotinPrac.main" target="1.8" />
       <module name="AnBolotinPrac.test" target="1.8" />
+      <module name="AnBolotonPrac.AnBolotinPrac.main" target="1.8" />
+      <module name="AnBolotonPrac.AnBolotinPrac.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

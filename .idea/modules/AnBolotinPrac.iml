@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id="AnBolotinPrac" external.linked.project.path="$MODULE_DIR$/../../AnBolotinPrac" external.root.project.path="$MODULE_DIR$/../../AnBolotinPrac" external.system.id="GRADLE" external.system.module.group="AnBolotonPrac" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
-  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../AnBolotinPrac" rootProjectPath="$MODULE_DIR$/../../AnBolotinPrac" />
+  <component name="ExternalSystem" externalSystem="GRADLE" externalSystemModuleGroup="AnBolotonPrac" externalSystemModuleVersion="1.0-SNAPSHOT" linkedProjectId="AnBolotinPrac" linkedProjectPath="$MODULE_DIR$/../../AnBolotinPrac" rootProjectPath="$MODULE_DIR$/../../AnBolotinPrac" />
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../AnBolotinPrac">
       <excludeFolder url="file://$MODULE_DIR$/../../AnBolotinPrac/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../AnBolotinPrac/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../AnBolotinPrac/out" />
     </content>
     <orderEntry type="jdk" jdkName="12" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
