@@ -1,6 +1,5 @@
 package com.myProject.tests;
 
-import com.myProject.app.TestBase;
 import com.myProject.model.User;
 import org.openqa.selenium.By;
 import org.testng.Assert;
@@ -23,7 +22,7 @@ public class FillFormMessage extends TestBase {
         while (line != null) {
             String[] split = line.split(";");
 
-            list.add(new Object[] {new User().name(split[0]).email(split[1])});
+            list.add(new Object[] {new User().setName(split[0]).setEmail(split[1])});
 
             line = reader.readLine();
         }

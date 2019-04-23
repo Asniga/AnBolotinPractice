@@ -1,6 +1,5 @@
 package com.myProject.tests;
 
-import com.myProject.app.TestBase;
 import org.openqa.selenium.By;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
