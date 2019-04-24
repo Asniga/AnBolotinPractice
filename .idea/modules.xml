@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnBolotinPrac.iml" filepath="$PROJECT_DIR$/.idea/modules/AnBolotinPrac.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnBolotinPrac.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AnBolotinPrac.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnBolotinPrac.test.iml" filepath="$PROJECT_DIR$/.idea/modules/AnBolotinPrac.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnBolotonPrac.AnBolotinPrac.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AnBolotonPrac.AnBolotinPrac.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnBolotonPrac.AnBolotinPrac.test.iml" filepath="$PROJECT_DIR$/.idea/modules/AnBolotonPrac.AnBolotinPrac.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnBolotinPrac.iml" filepath="$PROJECT_DIR$/.idea/modules/AnBolotinPrac.iml" group="AnBolotinPrac" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnBolotinPrac_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AnBolotinPrac_main.iml" group="AnBolotinPrac" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnBolotinPrac_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AnBolotinPrac_test.iml" group="AnBolotinPrac" />
     </modules>
   </component>
 </project>
