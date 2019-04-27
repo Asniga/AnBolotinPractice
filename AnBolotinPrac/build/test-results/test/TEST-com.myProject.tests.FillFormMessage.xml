@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.myProject.tests.FillFormMessage" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-04-23T12:56:45" hostname="DESKTOP-8C89NMA" time="67.193">
-  <properties/>
-  <testcase name="fillFormMessage[0](com.myProject.model.User@3e54eeee)" classname="com.myProject.tests.FillFormMessage" time="49.919"/>
-  <testcase name="fillFormMessage[1](com.myProject.model.User@58efe732)" classname="com.myProject.tests.FillFormMessage" time="8.771"/>
-  <testcase name="fillFormMessage[2](com.myProject.model.User@7f465966)" classname="com.myProject.tests.FillFormMessage" time="8.501"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

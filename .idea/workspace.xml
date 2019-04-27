@@ -2,13 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="682e4ed6-eccf-40ac-ba83-bf3f40c574f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/AnBolotinPrac_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/AnBolotinPrac_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/AnBolotinPrac.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/AnBolotinPrac.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/AnBolotinPrac/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/build/reports/tests/test/classes/com.myProject.tests.FillFormMessage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/build/reports/tests/test/classes/com.myProject.tests.OpenJob.html" beforeDir="false" afterPath="$PROJECT_DIR$/AnBolotinPrac/build/reports/tests/test/classes/com.myProject.tests.OpenJob.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/build/reports/tests/test/classes/com.myProject.tests.OpenProjects.html" beforeDir="false" afterPath="$PROJECT_DIR$/AnBolotinPrac/build/reports/tests/test/classes/com.myProject.tests.OpenProjects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/AnBolotinPrac/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/build/reports/tests/test/packages/com.myProject.tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/AnBolotinPrac/build/reports/tests/test/packages/com.myProject.tests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/build/test-results/test/TEST-com.myProject.tests.FillFormMessage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/build/test-results/test/TEST-com.myProject.tests.OpenJob.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AnBolotinPrac/build/test-results/test/TEST-com.myProject.tests.OpenJob.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/build/test-results/test/TEST-com.myProject.tests.OpenProjects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AnBolotinPrac/build/test-results/test/TEST-com.myProject.tests.OpenProjects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/AnBolotinPrac/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/AnBolotinPrac/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/AnBolotinPrac/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/app/JobHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/app/JobHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/app/ProjectsHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/app/ProjectsHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/FillFormMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/FillFormMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/OpenJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/OpenJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/OpenProjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/OpenProjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/src/test/resources/myDataProvider.csv" beforeDir="false" afterPath="$PROJECT_DIR$/AnBolotinPrac/src/test/resources/myDataProvider.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnBolotinPrac/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AnBolotinPrac/src/test/resources/testng.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/AnBolotinPrac/.gradle/" />
@@ -53,8 +68,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/FillFormMessage.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="54" column="76" selection-start-line="54" selection-start-column="50" selection-end-line="54" selection-end-column="76" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1628#1629#0" expanded="true" />
+                <element signature="e#1717#1718#0" expanded="true" />
+                <element signature="e#1585#1586#0" expanded="true" />
+                <element signature="e#1672#1673#0" expanded="true" />
+                <element signature="e#2128#2129#0" expanded="true" />
+                <element signature="e#2217#2218#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/model/User.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/resources/myDataProvider.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/app/ProjectsHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,11 +113,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AnBolotinPrac/build.gradle">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/app/HelperBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+            <state relative-caret-position="222">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
+                <element signature="e#417#418#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,8 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/BabyHelper.java" />
-        <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/BabyOpen.java" />
         <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/WoomenOpen.java" />
         <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/BabyOver22.java" />
         <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/WoomenOver143.java" />
@@ -126,25 +180,27 @@
         <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/OpenProjects.java" />
         <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/FildFormMessage.java" />
         <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/app/HelperBase.java" />
-        <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/resources/myDataProvider.csv" />
         <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/app/TestBase.java" />
         <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/FillFormDataProvider.java" />
-        <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/TestBase.java" />
-        <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/model/User.java" />
-        <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/app/ProjectsHelper.java" />
         <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/resources/logback.xml" />
         <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/resources/testng.xml" />
         <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/OpenJob.java" />
-        <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/FillFormMessage.java" />
+        <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/OpenProjects.java" />
         <option value="$PROJECT_DIR$/AnBolotinPrac/build.gradle" />
+        <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/TestBase.java" />
+        <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/app/JobHelper.java" />
+        <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/model/User.java" />
+        <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/resources/myDataProvider.csv" />
+        <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/FillFormMessage.java" />
+        <option value="$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/app/ProjectsHelper.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-3" />
-    <option name="y" value="310" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
     <option name="width" value="1346" />
-    <option name="height" value="446" />
+    <option name="height" value="688" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -154,6 +210,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -165,6 +222,32 @@
             <path>
               <item name="AnBolotinPrac" type="b2602c69:ProjectViewProjectNode" />
               <item name="AnBolotinPrac" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnBolotinPrac" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnBolotinPrac" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnBolotinPrac" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnBolotinPrac" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnBolotinPrac" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnBolotinPrac" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnBolotinPrac" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnBolotinPrac" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -172,6 +255,48 @@
               <item name="AnBolotinPrac" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnBolotinPrac" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnBolotinPrac" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnBolotinPrac" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnBolotinPrac" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="myProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnBolotinPrac" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnBolotinPrac" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="myProject" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnBolotinPrac" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnBolotinPrac" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="myProject" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnBolotinPrac" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnBolotinPrac" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="myProject" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AnBolotinPrac" type="b2602c69:ProjectViewProjectNode" />
@@ -184,15 +309,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="jdk.selected.JAVA_MODULE" value="12" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/AnBolotinPrac/build.gradle" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
@@ -222,7 +346,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.FillFormMessage">
+  <component name="RunManager" selected="TestNG.FillFormMessage (1)">
     <configuration name="C:/Users/Anna/Documents/GitHub/AnBolotinPractice/AnBolotinPrac/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AnBolotinPrac" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/AnBolotinPrac/src/test/resources/testng.xml" />
@@ -234,6 +358,23 @@
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
       <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FillFormMessage (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AnBolotinPrac_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myProject.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myProject.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.myProject.tests.FillFormMessage" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -323,14 +464,15 @@
       <item itemvalue="TestNG.OpenProjects" />
       <item itemvalue="TestNG.OpenJob" />
       <item itemvalue="TestNG.C:/Users/Anna/Documents/GitHub/AnBolotinPractice/AnBolotinPrac/src/test/resources/testng.xml" />
+      <item itemvalue="TestNG.FillFormMessage (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.FillFormMessage" />
+        <item itemvalue="TestNG.FillFormMessage (1)" />
         <item itemvalue="TestNG.OpenJob" />
+        <item itemvalue="TestNG.FillFormMessage" />
         <item itemvalue="TestNG.C:/Users/Anna/Documents/GitHub/AnBolotinPractice/AnBolotinPrac/src/test/resources/testng.xml" />
         <item itemvalue="TestNG.OpenProjects" />
-        <item itemvalue="TestNG.FillFormMessage" />
       </list>
     </recent_temporary>
   </component>
@@ -348,27 +490,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OpenJob - 2019.04.23 at 15h 26m 50s.xml">
-      <configuration name="OpenJob" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="OpenJob - 2019.04.23 at 15h 27m 35s.xml">
-      <configuration name="OpenJob" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="OpenJob - 2019.04.23 at 15h 29m 11s.xml">
-      <configuration name="OpenJob" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="OpenProjects - 2019.04.23 at 15h 37m 41s.xml">
-      <configuration name="OpenProjects" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Anna_Documents_GitHub_AnBolotinPractice_AnBolotinPrac_src_test_resources_testng_xml - 2019.04.23 at 16h 43m 53s.xml">
-      <configuration name="C:/Users/Anna/Documents/GitHub/AnBolotinPractice/AnBolotinPrac/src/test/resources/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Anna_Documents_GitHub_AnBolotinPractice_AnBolotinPrac_src_test_resources_testng_xml_(1) - 2019.04.23 at 16h 45m 48s.xml">
-      <configuration name="C:/Users/Anna/Documents/GitHub/AnBolotinPractice/AnBolotinPrac/src/test/resources/testng.xml (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Anna_Documents_GitHub_AnBolotinPractice_AnBolotinPrac_src_test_resources_testng_xml - 2019.04.23 at 16h 48m 47s.xml">
-      <configuration name="C:/Users/Anna/Documents/GitHub/AnBolotinPractice/AnBolotinPrac/src/test/resources/testng.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__Users_Anna_Documents_GitHub_AnBolotinPractice_AnBolotinPrac_src_test_resources_testng_xml - 2019.04.23 at 16h 53m 45s.xml">
       <configuration name="C:/Users/Anna/Documents/GitHub/AnBolotinPractice/AnBolotinPrac/src/test/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
@@ -378,12 +499,33 @@
     <history-entry file="FillFormMessage_(1) - 2019.04.24 at 14h 54m 16s.xml">
       <configuration name="FillFormMessage (1)" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="FillFormMessage - 2019.04.24 at 15h 38m 15s.xml">
+      <configuration name="FillFormMessage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenJob - 2019.04.24 at 15h 50m 40s.xml">
+      <configuration name="OpenJob" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenJob - 2019.04.24 at 15h 51m 55s.xml">
+      <configuration name="OpenJob" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenJob - 2019.04.24 at 20h 45m 45s.xml">
+      <configuration name="OpenJob" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FillFormMessage_(1) - 2019.04.27 at 16h 49m 42s.xml">
+      <configuration name="FillFormMessage (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FillFormMessage_(1) - 2019.04.27 at 16h 50m 48s.xml">
+      <configuration name="FillFormMessage (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FillFormMessage_(1) - 2019.04.27 at 16h 54m 51s.xml">
+      <configuration name="FillFormMessage (1)" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21558245" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22163388" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -392,7 +534,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2831424" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23731588" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -401,13 +543,13 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.3289689" />
-      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.28477904" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.18003273" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Gradle" order="5" visible="true" weight="0.22541603" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.22541603" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
@@ -487,79 +629,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/FillFormDataProvider.java" />
-    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/app/JobHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/resources/myDataProvider.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/app/AppManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AnBolotinPrac/testFile-20190423T144047.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="LogFileEditorProvider" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/OpenProjects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/build/reports/tests/test/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/resources/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -573,41 +647,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/app/HelperBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/OpenJob.java">
+    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/app/AppManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/app/ProjectsHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#601#602#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/FillFormMessage.java">
+    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        <state relative-caret-position="306">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -616,8 +669,101 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AnBolotinPrac/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/build/reports/tests/test/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/OpenJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/OpenProjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/app/JobHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/resources/myDataProvider.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/app/HelperBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/tests/FillFormMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="54" column="76" selection-start-line="54" selection-start-column="50" selection-end-line="54" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1628#1629#0" expanded="true" />
+            <element signature="e#1717#1718#0" expanded="true" />
+            <element signature="e#1585#1586#0" expanded="true" />
+            <element signature="e#1672#1673#0" expanded="true" />
+            <element signature="e#2128#2129#0" expanded="true" />
+            <element signature="e#2217#2218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnBolotinPrac/src/test/java/com/myProject/app/ProjectsHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -660,7 +806,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>12</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -672,7 +818,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>AnBolotinPrac_test|AnBolotinPrac</last-edited>
+          <last-edited>AnBolotinPrac|AnBolotinPrac</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

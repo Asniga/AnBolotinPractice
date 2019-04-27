@@ -5,8 +5,8 @@
 
     <test name="Regression1">
         <classes>
-            <class name="com.myProject.tests.FillFormMessage"/>
             <class name="com.myProject.tests.OpenJob"/>
-        </classes>
+            <class name="com.myProject.tests.OpenProjects"/>
+            </classes>
     </test>
 </suite>

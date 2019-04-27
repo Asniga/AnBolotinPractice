@@ -13,7 +13,7 @@ public class TestBase {
         app.start();
     }
 
-    @AfterSuite
+    @AfterSuite(alwaysRun = true)
     public void tearDown(){
         app.stop();
     }

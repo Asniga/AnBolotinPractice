@@ -8,7 +8,7 @@ import org.testng.annotations.*;
 public class OpenProjects extends TestBase {
     Logger logger = LoggerFactory.getLogger(OpenProjects.class);
     @Test
-    public void projectsOpen(){
+    public void projectsOpen() throws InterruptedException {
         logger.info("Start Test");
         app.getProjects().openSite();
         app.getProjects().openProjects();
