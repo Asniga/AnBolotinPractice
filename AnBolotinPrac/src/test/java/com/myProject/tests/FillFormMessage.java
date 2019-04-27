@@ -30,7 +30,7 @@ public class FillFormMessage extends TestBase {
     }
 
     @Test(dataProvider = "myDataProvider")
-    public void fillFormMessage(User user) throws InterruptedException {
+    public void fillFormMessage(User user)  {
         app.getProjects().openSite();
         app.getProjects().type(By.className("input-name"), user.getName());
         app.getProjects().type(By.className("input-email"), user.getEmail());
